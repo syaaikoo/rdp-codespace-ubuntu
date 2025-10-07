@@ -1,8 +1,12 @@
 # rdp-codespace-ubuntu
 **Free RDP via GitHub Codespaces (Ubuntu + XFCE4 / KDE Plasma) – tanpa ribet, langsung jalan!**  
 
-<div>
-   <img src="https://media.tenor.com/N5fU8iyU9F4AAAAi/shigure-ui-dance.gif"</img>
+<div align="center">
+   <a href="https://instagram.com/syaaikoo">
+      <img src="https://img.shields.io/badge/Instagram-syaaikoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+   </a>
+   <br><br>
+   <img src="https://media.tenor.com/N5fU8iyU9F4AAAAi/shigure-ui-dance.gif" />
 </div>
 
 
