@@ -142,7 +142,7 @@ di repo ini biar airaaa makin semangat update ehehehe!!!!
 
 Made with 💻 by **©AiraaCheisyaa**
 <div align="center">  
-  <img src="https://media.tenor.com/eeur7VuCbmkAAAAj/anime-rikka.gif" width="80"/>  
+  <img src="https://c.tenor.com/Cjw0fXX7LwwAAAAC/tenor.gif"/>  
   <br>  
   <b>see youu, thanks for visiting my repo</b>  
 </div>
