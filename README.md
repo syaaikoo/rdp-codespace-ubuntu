@@ -34,8 +34,8 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
 
 ---
 
-<div>
-   <img src="https://media.tenor.com/IjX29sgxJVAAAAAi/sleeping-cute.gif" height="220" />
+<div align="center">
+   <img src="https://media.tenor.com/IjX29sgxJVAAAAAi/sleeping-cute.gif"  height="100" width="100"/>
 </div>
 
 ---
@@ -106,6 +106,12 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
    ```
 
    Dan yapp! sekarang kmuu udahh punya **RDP gratis dengan RAM 15GB** siap dipakai apapun itu.  
+
+<div>
+      <img src="https://media.tenor.com/cZCGGNbpWskAAAAi/miyulily-vtuber.gif"
+     style="position:absolute; right:0px; width:300px; border:3px solid green; padding:10px;" />
+</div>
+
 
 ---
 
