@@ -33,7 +33,7 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
 |  Tampilan | Minimalis & cepat | Modern & kaya efek |
 |  Resource | Rendah (hemat CPU/RAM) | Tinggi (lebih berat) |
 |  Kompatibilitas | Sangat stabil | Kadang butuh tweak tambahan |
-|  Cocok untuk | Server ringan, low-end | PC/laptop kuat, user estetis |
+|  Cocok untuk | Server ringan, low-end | mementingkan tampilan, user estetis |
 |  Script | `crd-xfce.py` | `crd-kde-plasma.py` |
 
 ---
