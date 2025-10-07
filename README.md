@@ -1,7 +1,7 @@
 # 🚀 rdp-codespace-ubuntu
 **Free RDP via GitHub Codespaces (Ubuntu + XFCE4) – tanpa ribet, langsung jalan!**  
 
-Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **Remote Desktop gratis** dengan spesifikasi **dewa (RAM 15GB)** 😱🔥  
+Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **Remote Desktop gratis** dengan spesifikasi **dewa (RAM 15GB)**  
 
 > ⚠️ **PENTING**: Ikuti tutorial ini dengan benar biar nggak gagal dapet RDP.  
 > ⚠️ **DISCLAIMER**: Semua resiko sepenuhnya ditanggung pengguna. Repo ini hanya sebagai media edukasi.  
@@ -51,6 +51,7 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
    - `main.py`  
    - `auto-active.py`  
    - `README.md`
+   - `Selebihnya mungkin liesensi`
 
 ---
 
@@ -87,7 +88,7 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
    123456
    ```
 
-   🎉 Boom! Sekarang kamu punya **RDP gratis dengan RAM 15GB + XFCE4 Desktop** siap dipakai.  
+   Dan yappp! Sekarang kamu punya **RDP gratis dengan RAM 15GB + XFCE4 Desktop** siap dipakai.  
 
 ---
 
