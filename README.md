@@ -125,3 +125,8 @@ di repo ini biar airaaa makin semangat update ehehehe!!!!
 ---
 
 Made with 💻 by **©AiraaCheisyaa**
+<div align="center">  
+  <img src="https://media.tenor.com/XuVtAAljbX8AAAAM/anime-wave.gif" width="220"/>  
+  <br>  
+  <b>see youu, thanks for visiting my profile 💖</b>  
+</div>
