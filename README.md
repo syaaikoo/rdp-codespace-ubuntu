@@ -114,8 +114,7 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
 
 > Tampilan jika kalian memilih **XFCE4** kurang lebih akan seperti ini setelah berhasil setup:  
 
-![RDP Codespace Preview xfce]
-(https://docs.vultr.com/public/doc-assets/2091/9d5e1501-4ec5-4be6-95dd-6687764039c3.png)  
+![RDP Codespace Preview xfce](https://docs.vultr.com/public/doc-assets/2091/9d5e1501-4ec5-4be6-95dd-6687764039c3.png)
 
 ---
 
