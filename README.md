@@ -1,15 +1,15 @@
-# 🚀 rdp-codespace-ubuntu
+# rdp-codespace-ubuntu
 **Free RDP via GitHub Codespaces (Ubuntu + XFCE4 / KDE Plasma) – tanpa ribet, langsung jalan!**  
 
-Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **Remote Desktop gratis** dengan spesifikasi **dewa (RAM 15GB)** 😱🔥  
+Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **Remote Desktop gratis** dengan spesifikasi **dewa (RAM 15GB)**   
 
-> ⚠️ **PENTING**: Ikuti tutorial ini dengan benar biar nggak gagal dapet RDP.  
+> ⚠️ **PENTING**: Ikuti tutorial ini dengan benar biar enggak gagal.  
 
 ---
 
 ## ✨ Fitur
 - ✅ Gratis 100% via GitHub Codespaces  
-- ✅ RAM 15GB (powerful banget 🚀)  
+- ✅ RAM 15GB lupa spek cpu nya intinya (powerful banget 🚀)  
 - ✅ Setup super gampang (full otomatis)  
 - ✅ Pilihan Desktop Environment: **XFCE4** atau **KDE Plasma**  
 - ✅ Bisa diakses lewat [Chrome Remote Desktop](https://remotedesktop.google.com) atau aplikasinya di HP  
@@ -20,12 +20,12 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
 
 | Aspek | XFCE4 | KDE Plasma |
 |-------|--------|-------------|
-| ⚡ Performa | Super ringan | Sedikit lebih berat |
-| 🎨 Tampilan | Minimalis & cepat | Modern & kaya efek |
-| ⚙️ Resource | Rendah (hemat CPU/RAM) | Tinggi (lebih berat) |
-| 🧩 Kompatibilitas | Sangat stabil | Kadang butuh tweak tambahan |
-| 💡 Cocok untuk | Server ringan, low-end | PC/laptop kuat, user estetis |
-| 🐍 Script | `crd-xfce.py` | `crd-kde-plasma.py` |
+|  Performa | Super ringan | Sedikit lebih berat |
+|  Tampilan | Minimalis & cepat | Modern & kaya efek |
+|  Resource | Rendah (hemat CPU/RAM) | Tinggi (lebih berat) |
+|  Kompatibilitas | Sangat stabil | Kadang butuh tweak tambahan |
+|  Cocok untuk | Server ringan, low-end | PC/laptop kuat, user estetis |
+|  Script | `crd-xfce.py` | `crd-kde-plasma.py` |
 
 ---
 
@@ -52,7 +52,7 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
    - `crd-xfce.py`  
    - `crd-kde-plasma.py`  
    - `auto-active.py`  
-   - `README.md`  
+   - `README.md`
 
 ---
 
@@ -60,7 +60,7 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
 8. Buka [Chrome Remote Desktop](https://remotedesktop.google.com) (atau install app di Play Store).  
 9. Klik menu **☰** (pojok kiri atas) → pilih **Siapkan melalui SSH** → lanjut terus sampai muncul halaman **Siapkan komputer lain**.  
 10. Copy perintah paling bawah (yang untuk Debian Linux).  
-    > ⚠️ **Jangan tutup tab Chrome Remote Desktop!** Kalau ditutup, AuthKey bisa berubah.  
+    > ⚠️ **Jangan hapus tab Chrome Remote Desktop!** Kalau dihapus, AuthKey bisa berubah.  
 
 ---
 
@@ -95,15 +95,15 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
    123456
    ```
 
-   🎉 Boom! Sekarang kamu punya **RDP gratis dengan RAM 15GB** siap dipakai.  
+   Dan yapp! sekarang kmuu udahh punya **RDP gratis dengan RAM 15GB** siap dipakai apapun itu.  
 
 ---
 
-## 📦 Rencana Update
+## 📦 Next Update
 - [ ] Support tambahan desktop environment (GNOME, MATE, Cinnamon)  
 - [ ] Auto-reconnect lebih stabil  
 - [ ] Deteksi error otomatis  
-- [ ] UI setup interaktif via Python CLI  
+- [ ] UI setup via python cli  
 
 ---
 
@@ -115,8 +115,8 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
 ---
 
 ## ❤️ Support
-Kalau tutorial ini bermanfaat, jangan lupa kasih **⭐ star** di repo ini biar makin semangat update 🚀  
+Kalau tutorial dan script repo ini bermanfaat, tolong jangan lupa kasih **⭐ star** di repo ini biar airaaa makin semangat update ehehehe!!!!  
 
 ---
 
-Made with 💻 by **Gxyenn**
+Made with 💻 by **©AiraaCheisyaa**
