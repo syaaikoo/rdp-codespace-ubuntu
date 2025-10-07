@@ -128,5 +128,5 @@ Made with 💻 by **©AiraaCheisyaa**
 <div align="center">  
   <img src="https://media.tenor.com/eeur7VuCbmkAAAAj/anime-rikka.gif" width="220"/>  
   <br>  
-  <b>see youu, thanks for visiting my profile 💖</b>  
+  <b>see youu, thanks for visiting my repositori</b>  
 </div>
