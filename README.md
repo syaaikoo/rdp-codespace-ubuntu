@@ -108,9 +108,9 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
 ---
 
 ## 🖼️ Preview
-> Tampilan kurang lebih akan seperti ini setelah berhasil setup:  
+> Tampilan jika kalian memilih kde-plasma kurang lebih akan seperti ini setelah berhasil setup:  
 
-![RDP Codespace Preview](https://i.ibb.co/bsxnpp1/codespace-rdp-preview.png)  
+![RDP Codespace Preview](https://kde.org/content/plasma-desktop/plasma-launcher.png)  
 
 ---
 
