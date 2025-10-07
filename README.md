@@ -1,7 +1,7 @@
 # 🚀 rdp-codespace-ubuntu
 **Free RDP via GitHub Codespaces (Ubuntu) – tanpa ribet, langsung jalan!**  
 
-Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **Remote Desktop gratis** dengan spesifikasi **dewa (RAM 15GB)** 😱🔥  
+Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **Remote Desktop gratis** dengan spesifikasi **dewa (RAM 15GB)** 
 
 > ⚠️ **PENTING**: Ikuti tutorial ini dengan benar biar nggak gagal dapet RDP.  
 
