@@ -2,7 +2,7 @@
 **Free RDP via GitHub Codespaces (Ubuntu + XFCE4 / KDE Plasma) – tanpa ribet, langsung jalan!**  
 
 <div>
-   <img https://media.tenor.com/N5fU8iyU9F4AAAAi/shigure-ui-dance.gif</img>
+   <img src="https://media.tenor.com/N5fU8iyU9F4AAAAi/shigure-ui-dance.gif"</img>
 </div>
 
 
