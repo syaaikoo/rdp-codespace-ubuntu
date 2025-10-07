@@ -102,7 +102,7 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
 ## 🖼️ Preview
 > Tampilan kurang lebih akan seperti ini setelah berhasil setup:  
 
-![RDP Codespace Preview](https://i.ibb.co/bsxnpp1/codespace-rdp-preview.png)  
+![RDP Codespace Preview with de xfce4](https://raw.githubusercontent.com/syaaikoo/rdp-codespace-ubuntu/refs/heads/main/assets/Screenshot_20251008-012719.jpg)  
 
 ---
 
