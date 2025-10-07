@@ -1,9 +1,10 @@
 # 🚀 rdp-codespace-ubuntu
-**Free RDP via GitHub Codespaces (Ubuntu) – tanpa ribet, langsung jalan!**  
+**Free RDP via GitHub Codespaces (Ubuntu + XFCE4) – tanpa ribet, langsung jalan!**  
 
-Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **Remote Desktop gratis** dengan spesifikasi **dewa (RAM 15GB)** 
+Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **Remote Desktop gratis** dengan spesifikasi **dewa (RAM 15GB)** 😱🔥  
 
 > ⚠️ **PENTING**: Ikuti tutorial ini dengan benar biar nggak gagal dapet RDP.  
+> ⚠️ **DISCLAIMER**: Semua resiko sepenuhnya ditanggung pengguna. Repo ini hanya sebagai media edukasi.  
 
 ---
 
@@ -12,6 +13,18 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
 - ✅ RAM 15GB (powerful banget 🚀)  
 - ✅ Setup super gampang (full otomatis)  
 - ✅ Bisa diakses lewat [Chrome Remote Desktop](https://remotedesktop.google.com) atau aplikasinya di HP  
+- ✅ Sudah terpasang **XFCE4 Desktop Environment** → ringan, cepat, dan stabil  
+- ✅ Dukungan multitasking lancar (lebih hemat resource dibanding GNOME / KDE)  
+- ✅ Cocok untuk penggunaan coding, browsing, office, atau remote server harian  
+
+---
+
+## 💡 Keuntungan Memakai XFCE4
+- ⚡ **Ringan & cepat** → cocok bahkan di server gratisan sekalipun  
+- 🖥️ **Tampilan familiar** → mirip desktop klasik Windows, gampang digunakan  
+- 🔋 **Hemat resource** → CPU & RAM lebih fokus untuk aplikasi kamu  
+- 🔧 **Highly customizable** → bisa diubah sesuai selera tanpa bikin berat  
+- 📦 Stabil & mature, sudah lama dipakai di banyak distro Linux besar  
 
 ---
 
@@ -74,7 +87,7 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
    123456
    ```
 
-   🎉 Boom! Sekarang kamu punya **RDP gratis dengan RAM 15GB** siap dipakai.  
+   🎉 Boom! Sekarang kamu punya **RDP gratis dengan RAM 15GB + XFCE4 Desktop** siap dipakai.  
 
 ---
 
@@ -92,5 +105,10 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
 
 ---
 
+## ⚠️ Disclaimer
+Repo ini dibuat untuk tujuan **edukasi**. Segala bentuk penyalahgunaan di luar tanggung jawab pembuat. Semua resiko sepenuhnya ditanggung pengguna.  
+
+---
+
 ## ❤️ Support
-Kalau tutorial ini bermanfaat, jangan lupa kasih **⭐ star** di repo ini biar makin semangat update 🚀  
+Kalau tutorial ini bermanfaat, jangan lupa kasih **⭐ star** di repo ini biar makin semangat update airaaa ehehehe
