@@ -1,6 +1,8 @@
 # rdp-codespace-ubuntu
 **Free RDP via GitHub Codespaces (Ubuntu + XFCE4 / KDE Plasma) – tanpa ribet, langsung jalan!**  
 
+<img>https://media.tenor.com/N5fU8iyU9F4AAAAi/shigure-ui-dance.gif</img>
+
 Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **Remote Desktop gratis** dengan spesifikasi **dewa (RAM 15GB)**   
 
 > ⚠️ **PENTING**: Ikuti tutorial ini dengan benar biar enggak gagal.  
