@@ -34,6 +34,11 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
 
 ---
 
+<div>
+   <img src="https://media.tenor.com/IjX29sgxJVAAAAAi/sleeping-cute.gif" height="220" />
+</div>
+
+---
 ## 📋 Tutorial Lengkap
 
 ### 1. Persiapan
