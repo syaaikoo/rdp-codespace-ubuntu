@@ -9,7 +9,7 @@ import sys
 import pwd
 import grp
 
-# utility fix
+# utility
 def log(msg, status="INFO"):
     colors = {
         "INFO": "\033[94m[INFO]\033[0m",
