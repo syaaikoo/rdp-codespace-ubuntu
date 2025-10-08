@@ -9,7 +9,7 @@ import sys
 import pwd
 import grp
 
-# utility
+# utility fix
 def log(msg, status="INFO"):
     colors = {
         "INFO": "\033[94m[INFO]\033[0m",
@@ -17,7 +17,7 @@ def log(msg, status="INFO"):
         "WARN": "\033[93m[WARN]\033[0m",
         "ERROR": "\033[91m[ERROR]\033[0m"
     }
-    print(f"{colors.get(status, '[?]']} {msg}")
+    print(f"{colors.get(status, '[?]')} {msg}")
 
 
 def run_cmd(cmd, check=True, capture=False, as_user=None):
