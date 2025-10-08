@@ -136,26 +136,26 @@ Anda akan melihat:
 
 XFCE4 (ringan & cepat):
 \`\`\`bash
-sudo python crd-xfce.py
+sudo python3 crd-xfce.py
 \`\`\`
 
 KDE Plasma (lebih kaya visual):
 \`\`\`bash
-sudo python crd-kde-plasma.py
+sudo python3 crd-kde-plasma.py
 \`\`\`
 
 12. Tempel perintah SSH dari Chrome Remote Desktop → tekan Enter → tunggu proses otomatis selesai.
 
 13. Jalankan keep-alive agar Codespace tetap aktif:
 \`\`\`bash
-sudo python auto-active.py
+sudo python3 auto-active.py
 \`\`\`
 
 ### 5) Login RDP
 14. Jangan reload atau menutup tab Codespace. Biarkan tetap terbuka.  
 15. Kembali ke Chrome Remote Desktop / aplikasi seluler.  
 16. Komputer baru akan muncul → klik dan masuk dengan password default:
-\`\`\`bash
+\`\`\`
 123456
 \`\`\`
 
