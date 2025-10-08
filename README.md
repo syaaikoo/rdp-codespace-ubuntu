@@ -139,8 +139,8 @@ Hanya dengan membuat repo GitHub (bahkan cukup README aja), kamu bisa dapetin **
 ---
 
 ## ❤️ Support
-Kalau tutorial dan script repo ini bermanfaat, tolong jangan lupa kasih **⭐ star** 
-di repo ini biar airaaa makin semangat update ehehehe!!!!  
+𝘒𝘢𝘭𝘢𝘶 𝘵𝘶𝘵𝘰𝘳𝘪𝘢𝘭 𝘥𝘢𝘯 𝘴𝘤𝘳𝘪𝘱𝘵 𝘳𝘦𝘱𝘰 𝘪𝘯𝘪 𝘣𝘦𝘳𝘮𝘢𝘯𝘧𝘢𝘢𝘵, 𝘵𝘰𝘭𝘰𝘯𝘨 𝘫𝘢𝘯𝘨𝘢𝘯 𝘭𝘶𝘱𝘢 𝘬𝘢𝘴𝘪𝘩 **⭐ 𝘴𝘵𝘢𝘳** 
+𝘥𝘪 𝘳𝘦𝘱𝘰 𝘪𝘯𝘪 𝘣𝘪𝘢𝘳 𝘢𝘪𝘳𝘢𝘢𝘢 𝘮𝘢𝘬𝘪𝘯 𝘴𝘦𝘮𝘢𝘯𝘨𝘢𝘵 𝘶𝘱𝘥𝘢𝘵𝘦 𝘦𝘩𝘦𝘩𝘦𝘩𝘦!!!!
 
 ---
 
