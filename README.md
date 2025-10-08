@@ -146,7 +146,12 @@ di repo ini biar airaaa makin semangat update ehehehe!!!!
 
 Made with 💻 by **©AiraaCheisyaa**
 <div align="center">  
-  <img src="https://c.tenor.com/Cjw0fXX7LwwAAAAC/tenor.gif"/>  
+  <img src="https://c.tenor.com/Cjw0fXX7LwwAAAAC/tenor.gif"/>
+   <p align="center">  
+  <a href="https://github.com/syaaikoo/Marine969">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syaaikoo&repo=crd-codespace-ubuntu&theme=tokyonight&hide_border=false">  
+  </a>  
+  </p>
   <br>  
   <b>see youu, thanks for visiting my repo</b>  
 </div>
