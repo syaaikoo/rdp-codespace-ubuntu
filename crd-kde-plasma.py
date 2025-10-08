@@ -17,7 +17,8 @@ def log(msg, status="INFO"):
         "WARN": "\033[93m[WARN]\033[0m",
         "ERROR": "\033[91m[ERROR]\033[0m"
     }
-    print(f"{colors.get(status, '[?]')} {msg}")
+    # gunakan .format() untuk menghindari masalah parsing f-string
+    print("{} {}".format(colors.get(status, "[?]"), msg))
 
 
 def run_cmd(cmd, check=True, capture=False, as_user=None):
@@ -34,7 +35,7 @@ def run_cmd(cmd, check=True, capture=False, as_user=None):
     except subprocess.CalledProcessError as e:
         if capture:
             return getattr(e, 'stdout', ''), getattr(e, 'stderr', str(e))
-        log(f"Perintah gagal: {' '.join(cmd)} -> {e}", "ERROR")
+        log("Perintah gagal: {} -> {}".format(' '.join(cmd), e), "ERROR")
         if check:
             sys.exit(1)
         return None, str(e)
