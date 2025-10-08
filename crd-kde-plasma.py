@@ -159,7 +159,7 @@ class CRDRootKDE:
     @staticmethod
     def install_kde():
         log("install kde plasma minimal (desktop & dependencies)...")
-        run_cmd(["apt", "install", "-y", "kde-plasma-desktop", "dbus-x11", "dbus-user-session", "pulseaudio"], check=False)
+        run_cmd(["apt", "install", "-y", "kde-full", "dbus-x11", "dbus-user-session", "pulseaudio"], check=False)
         log("kde plasma desktop sudah terpasang", "OK")
 
     @staticmethod
