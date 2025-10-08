@@ -83,10 +83,9 @@ Script terkait:
 ## Quick Start
 1. Buka https://github.com/features/codespaces dan pilih **New codespace** untuk repo Anda.  
 2. Di Terminal Codespace:
-   \`\`\`bash
-   git clone https://github.com/syaaikoo/rdp-codespace-ubuntu.git \
-   && cd rdp-codespace-ubuntu && ls
-   \`\`\`
+\`\`\`bash
+git clone https://github.com/syaaikoo/rdp-codespace-ubuntu.git && cd rdp-codespace-ubuntu && ls
+\`\`\`
 3. Pilih DE: jalankan salah satu `crd-xfce.py` atau `crd-kde-plasma.py`, lalu ikuti langkah Chrome Remote Desktop.
 
 > [!TIP]
@@ -156,7 +155,7 @@ sudo python auto-active.py
 14. Jangan reload atau menutup tab Codespace. Biarkan tetap terbuka.  
 15. Kembali ke Chrome Remote Desktop / aplikasi seluler.  
 16. Komputer baru akan muncul → klik dan masuk dengan password default:
-\`\`\`
+\`\`\`bash
 123456
 \`\`\`
 
