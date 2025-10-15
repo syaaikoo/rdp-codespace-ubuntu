@@ -309,6 +309,38 @@ def fitur_keep_alive() -> None:
     except KeyboardInterrupt:
         console.print("\n[bold yellow]Keep alive dihentikan oleh pengguna.[/bold yellow]")
 
+def pasang_audio() -> None:
+    cek_perintah(["apt-get"])
+    # Pasang paket audio utama
+    apt([
+        "install",
+        "pulseaudio",
+        "pulseaudio-utils",
+        "pulseaudio-module-x11",
+        "alsa-utils",
+        "alsa-oss",
+        "libasound2",
+        "libasound2-plugins",
+        "gstreamer1.0-tools",
+        "gstreamer1.0-plugins-base",
+        "gstreamer1.0-plugins-good",
+        "gstreamer1.0-plugins-bad",
+        "gstreamer1.0-plugins-ugly",
+        "pipewire",
+        "pipewire-audio-client-libraries"
+    ], "Pasang semua paket audio")
+
+    # Pastikan pulseaudio bisa jalan
+    jalankan_perintah(
+        ["bash", "-lc", "pulseaudio --check || pulseaudio --start"],
+        "Aktifkan PulseAudio user",
+        abaikan_error=True
+    )
+
+    # Tambahkan konfigurasi agar CRD mengenali PulseAudio
+    cmd = 'echo "export PULSE_SERVER=unix:/run/user/$UID/pulse/native" >> /etc/chrome-remote-desktop-session'
+    jalankan_perintah(["bash", "-lc", cmd], "Tambahkan konfigurasi PulseAudio untuk CRD", abaikan_error=True)
+
 def main() -> None:
     try:
         banner()
@@ -343,6 +375,7 @@ def main() -> None:
         pasang_crd()
         pasang_desktop()
         pasang_chrome()
+        pasang_audio()
         daftar_crd(username, crp, pin)
         console.print(Panel("nicee!! rdp kamuu berhasil dibuat nihh!.\nSekarang buka: https://remotedesktop.google.com/access \nuntuk aksesnya", style="bold green", title="Sukses"))
         pasang_vscode_interaktif()
