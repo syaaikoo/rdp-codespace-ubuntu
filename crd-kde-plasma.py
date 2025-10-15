@@ -213,7 +213,7 @@ def pasang_desktop() -> None:
         jalankan_perintah(["add-apt-repository", "universe"], "Menambah repo universe", abaikan_error=True)
         apt(["update"], "Update repositori setelah tambah universe")
         #coba install lagi
-        rc_kde2 = apt(["install", "kde-plasma-desktop", "kde-full"], "Pasang DE KDE Plasma Full (setelah tambah repo)")
+        rc_kde2 = apt(["install", "kde-full"], "Pasang DE KDE Plasma Full (setelah tambah repo)")
         if rc_kde2 != 0:
             console.print(Panel(
                 "[bold red]Gagal memasang KDE Plasma Full![/bold red]\n"
