@@ -232,6 +232,8 @@ def pasang_chrome() -> None:
         apt(["-f", "install"], "Fix dependency Chrome")
     Path(deb).unlink(missing_ok=True)
 
+
+
 def daftar_crd(user: str, crp_command: str, pin: str) -> None:
     cek_perintah(["usermod", "su", "service"])
     jalankan_perintah(["usermod", "-aG", "chrome-remote-desktop", user], "Menambah user ke grup CRD", abaikan_error=True)
@@ -297,6 +299,29 @@ def fitur_keep_alive() -> None:
     except KeyboardInterrupt:
         console.print("\n[bold yellow]Keep alive dihentikan oleh pengguna.[/bold yellow]")
 
+def pasang_audio() -> None:
+    cek_perintah(["apt-get"])
+    console.print(Panel("Pasang paket audio (PulseAudio, ALSA, GStreamer, Pavucontrol)…", style="bold green", title="Audio"))
+    apt([
+        "install",
+        "pulseaudio",
+        "pulseaudio-utils",
+        "pavucontrol",
+        "alsa-utils",
+        "alsa-oss",
+        "libasound2t64",
+        "libasound2-plugins",
+        "gstreamer1.0-tools",
+        "gstreamer1.0-plugins-base",
+        "gstreamer1.0-plugins-good",
+        "gstreamer1.0-plugins-bad",
+        "gstreamer1.0-plugins-ugly",
+        "volumeicon-alsa"
+    ], "Pasang paket audio")
+    # pastikan pulseaudio jalan
+    jalankan_perintah(["pulseaudio", "--check"], "Cek pulseaudio", abaikan_error=True)
+    jalankan_perintah(["pulseaudio", "--start"], "Start pulseaudio", abaikan_error=True)
+
 def main() -> None:
     try:
         banner()
@@ -333,6 +358,7 @@ def main() -> None:
 
         console.print(Panel("pasang paket sistem sekaligus CRD…", style="bold green"))
         pasang_dependensi()
+        pasang_audio()
         pasang_crd()
         pasang_desktop()
         pasang_chrome()
